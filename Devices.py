@@ -4,7 +4,7 @@ class Device :
     #this is just a comment # 
     
     @staticmethod
-    
+    #Missi is the best # 
     def findDevices() :
             devices=[]
 
