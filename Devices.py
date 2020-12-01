@@ -2,7 +2,7 @@ class Device :
     ipAddress=""
     port = ""
     @staticmethod
-    
+    #Missi is the best # 
     def findDevices() :
             devices=[]
 
