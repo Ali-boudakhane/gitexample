@@ -1,13 +1,14 @@
 class Device :
     ipAddress=""
     port = ""
+@lets change this a little bit
 
     def findDevices() :
             devices=[]
 
             d= Device()
             d.ipAddress= "192.168.1.1"
-            d.port="8080"
+            d.port="80"
 
             devices.append(d)
             
