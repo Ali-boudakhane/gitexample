@@ -1,8 +1,7 @@
 class Device :
     ipAddress=""
     port = ""
-@lets change this a little bit
-
+    
     def findDevices() :
             devices=[]
 
