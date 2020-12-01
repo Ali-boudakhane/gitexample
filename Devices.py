@@ -1,6 +1,8 @@
 class Device :
     ipAddress=""
     port = ""
+    #this is just a comment # 
+    
     @staticmethod
     
     def findDevices() :
