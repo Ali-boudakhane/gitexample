@@ -1,6 +1,8 @@
 class Device :
     ipAddress=""
     port = ""
+    @staticmethod
+    
     def findDevices() :
             devices=[]
 
